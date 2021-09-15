@@ -40,7 +40,7 @@ function App() {
 	return (
 		<div className="App">
 			<img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=100&h=100" alt="messenger-logo" />
-			<h1>Hello World</h1>
+			<h1>Messenger Clone</h1>
 			<h2>Welcome {username}</h2>
 
 			<form onSubmit={sendMessage} className="app__form">
