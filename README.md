@@ -1,3 +1,8 @@
+# Description
+
+this project build with react and firebase.\
+cek this [link](https://facebook-messenger-clone-2c2ce.web.app) to view this online project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,7 +14,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [Hosting URL: https://facebook-messenger-clone-2c2ce.web.app](https://facebook-messenger-clone-2c2ce.web.app) to view it in the browser.
+Open Hosting URL: [https://localhost:3000](https://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
